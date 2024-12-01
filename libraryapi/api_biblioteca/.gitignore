@@ -1,0 +1,9 @@
+#modulos do node
+/node_modules
+
+#variaveis do ambiente
+.env
+
+#target
+/target
+
