@@ -11,6 +11,13 @@ Jackson Lucas Mendonça Tenório de Almeida
 Elen Vitória Araújo Lima  
 Rapahel Lucas da Silva Barbosa  
 
+# Links úteis
+
+Fluxo de trabalho  
+https://trello.com/1/cards/674c86397a3ef67508d41aac/attachments/674cde9ee3b22a7349e0708a/download/Biblioteca_digital.pdf  
+
+Trello  
+https://trello.com/b/cR8DLYY0/projeto-back-end
 
 # Como utilizar a api
 
