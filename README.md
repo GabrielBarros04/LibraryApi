@@ -10,6 +10,7 @@ Gabriel Azevedo de Oliveira Barros
 Jackson Lucas Mendonça Tenório de Almeida  
 Elen Vitória Araújo Lima  
 Rapahel Lucas da Silva Barbosa  
+Luana de Andrade Carvalho  
 
 # Links úteis
 
