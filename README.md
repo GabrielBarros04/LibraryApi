@@ -20,8 +20,7 @@ https://trello.com/1/cards/674c86397a3ef67508d41aac/attachments/674cde9ee3b22a73
 Trello  
 https://trello.com/b/cR8DLYY0/projeto-back-end
 
-# Como utilizar a api
-
+# Instruções de uso
 Para usar este arquivo no Insomnia ou Postman:  
 
 Abra o Insomnia ou Postman  
