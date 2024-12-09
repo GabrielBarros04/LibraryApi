@@ -21,10 +21,10 @@ Validação e tratamento de erros HTTP.
 
 # Como clonar o repositório  
 
-Clone este repositório:
+Clone este repositório:  
 git clone https://github.com/GabrielBarros04/LibraryApi.git
 
-Navegue até o diretório onde se encontra:
+Navegue até o diretório onde se encontra:  
 cd LibraryApi/libraryapi
 
 
