@@ -12,6 +12,22 @@ Elen Vitória Araújo Lima
 Rapahel Lucas da Silva Barbosa  
 Luana de Andrade Carvalho  
 
+# Funcionalidades    
+
+Cadastro de livros, usuários e empréstimos.  
+Gerenciamento e histórico de devoluções.  
+Conteinerização completa com suporte a ambientes multi-plataforma.  
+Validação e tratamento de erros HTTP.  
+
+# Como clonar o repositório  
+
+Clone este repositório:
+git clone https://github.com/GabrielBarros04/LibraryApi.git
+
+Navegue até o diretório onde se encontra:
+cd LibraryApi/libraryapi
+
+
 # Links úteis
 
 Fluxo de trabalho  
