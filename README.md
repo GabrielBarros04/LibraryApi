@@ -24,7 +24,7 @@ Validação e tratamento de erros HTTP.
 Clone este repositório:  
 git clone https://github.com/GabrielBarros04/LibraryApi.git
 
-Navegue até o diretório onde se encontra:  
+Navegue pelo prompt até o diretório onde se encontra:  
 cd LibraryApi/libraryapi
 
 
